@@ -1,6 +1,6 @@
 # Parklink - Smart Parking Solution
 
-###Figma Link: https://www.figma.com/proto/PDbDVaKjTM6jBVKj36oQok/Untitled?node-id=0-1&t=0AN0eRTxicw9sibS-1
+Figma Link: https://www.figma.com/proto/PDbDVaKjTM6jBVKj36oQok/Untitled?node-id=0-1&t=0AN0eRTxicw9sibS-1
 
 Parklink is an IoT-based smart parking management system designed to tackle urban parking challenges, particularly in rapidly developing countries like India. By integrating IoT technologies, real-time monitoring, and user-centric interfaces, Parklink aims to reduce congestion, improve traffic flow, and support sustainable urban development.
 
